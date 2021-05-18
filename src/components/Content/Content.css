@@ -1,0 +1,41 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding: 1rem;
+    background: rgb(91, 106, 240);
+    flex: 4;
+    height: 90vh;
+    overflow-y: scroll;
+}
+
+.counter {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 10px;
+    
+    font-size: 2em;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background: red;
+    color: white;
+}
+
+
+.number{
+    font-size: 1.4rem;
+}
+
+.story{
+    background-color: white;
+    font-size: 3rem;
+}

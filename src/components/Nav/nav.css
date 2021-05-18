@@ -1,0 +1,8 @@
+.navbar{
+    background-color: blueviolet;
+    color: white;
+    padding: 32px;
+    display: flex;
+    height: 10vh;
+    justify-content: space-around;
+}
